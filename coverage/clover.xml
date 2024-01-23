@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1704997442924" clover="3.2.0">
+  <project timestamp="1704997442924" name="All files">
+    <metrics statements="48" coveredstatements="41" conditionals="10" coveredconditionals="8" methods="38" coveredmethods="28" elements="96" coveredelements="77" complexity="0" loc="48" ncloc="48" packages="1" files="2" classes="2"/>
+    <file name="todo.js" path="/home/ec2-user/environment/TodoListClass/todo.js">
+      <metrics statements="11" coveredstatements="10" conditionals="2" coveredconditionals="2" methods="6" coveredmethods="5"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="9" count="54" type="stmt"/>
+      <line num="10" count="54" type="stmt"/>
+      <line num="14" count="11" type="cond" truecount="2" falsecount="0"/>
+      <line num="15" count="11" type="stmt"/>
+      <line num="19" count="15" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+      <line num="27" count="31" type="stmt"/>
+      <line num="31" count="0" type="stmt"/>
+      <line num="35" count="1" type="stmt"/>
+    </file>
+    <file name="todoList.js" path="/home/ec2-user/environment/TodoListClass/todoList.js">
+      <metrics statements="37" coveredstatements="31" conditionals="8" coveredconditionals="6" methods="32" coveredmethods="23"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="12" count="21" type="stmt"/>
+      <line num="13" count="21" type="stmt"/>
+      <line num="18" count="59" type="cond" truecount="2" falsecount="0"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="22" count="58" type="stmt"/>
+      <line num="26" count="2" type="stmt"/>
+      <line num="30" count="1" type="stmt"/>
+      <line num="34" count="1" type="stmt"/>
+      <line num="38" count="13" type="stmt"/>
+      <line num="39" count="10" type="stmt"/>
+      <line num="43" count="15" type="cond" truecount="2" falsecount="0"/>
+      <line num="44" count="4" type="stmt"/>
+      <line num="49" count="4" type="stmt"/>
+      <line num="53" count="2" type="stmt"/>
+      <line num="57" count="7" type="stmt"/>
+      <line num="61" count="1" type="stmt"/>
+      <line num="65" count="1" type="stmt"/>
+      <line num="69" count="2" type="stmt"/>
+      <line num="71" count="1" type="stmt"/>
+      <line num="75" count="5" type="stmt"/>
+      <line num="77" count="11" type="stmt"/>
+      <line num="79" count="5" type="stmt"/>
+      <line num="83" count="7" type="stmt"/>
+      <line num="87" count="2" type="stmt"/>
+      <line num="89" count="2" type="stmt"/>
+      <line num="90" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="93" count="2" type="stmt"/>
+      <line num="97" count="0" type="stmt"/>
+      <line num="102" count="0" type="stmt"/>
+      <line num="106" count="0" type="stmt"/>
+      <line num="110" count="0" type="stmt"/>
+      <line num="112" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="116" count="12" type="stmt"/>
+      <line num="120" count="0" type="stmt"/>
+      <line num="132" count="5" type="stmt"/>
+      <line num="172" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
